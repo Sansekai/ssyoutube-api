@@ -1,5 +1,5 @@
 # ssyoutube-api
-Rest API Youtube, Tiktok, Twitter, Facebook, Instagram from https://ssyoutube.com/
+Rest API Downloader Youtube, Tiktok, Twitter, Facebook, Instagram from https://ssyoutube.com/
 
 ## Install & Run
 ```bash
