@@ -13,5 +13,5 @@ Rest API Youtube, Tiktok, Twitter, Facebook, Instagram.
 
 ## Contoh penggunaan
 ```
-ssyoutube-l48irhtym-sansekai.vercel.app/api/youtube?url=https://youtu.be/XR7A6tVVzxw
+ssyoutube-api.sansekai.repl.co/api/youtube?url=https://youtu.be/XR7A6tVVzxw
 ```
