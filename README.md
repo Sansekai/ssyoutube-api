@@ -1,6 +1,12 @@
 # ssyoutube-api
-Rest API Youtube, Tiktok, Twitter, Facebook, Instagram.
+Rest API Youtube, Tiktok, Twitter, Facebook, Instagram from https://ssyoutube.com/
 
+## Install & Run
+```bash
+$ npm install
+$ node index.js
+```
+buka browser dan jalankan ```http://localhost:3000/```
 
 ## Cara Penggunaan 
 | endpoint | parameter | Usage |
@@ -13,5 +19,5 @@ Rest API Youtube, Tiktok, Twitter, Facebook, Instagram.
 
 ## Contoh penggunaan
 ```
-ssyoutube-api.sansekai.repl.co/api/youtube?url=https://youtu.be/XR7A6tVVzxw
+https://ssyoutube-api.sansekai.repl.co/api/youtube?url=https://youtu.be/XR7A6tVVzxw
 ```
